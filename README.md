@@ -1,4 +1,4 @@
-mr.grogrig is a white-hat hacker with over 15 years of experience in information security, specializing in antivirus evasion and reverse engineering. He's a regular contributor to [Хакер magazine](https://xakep.ru/author/mr-grogrig/), where he writes about game reversing, cryptography, decentralized mesh networks, and more. He currently works at Deeplay as a Senior Reverse Engineer.
+mr.grogrig is a white-hat hacker with over 15 years of experience in information security, specializing in antivirus evasion and reverse engineering. He's a regular contributor to Хакер [magazine](https://xakep.ru/author/mr-grogrig/), where he writes about game reversing, cryptography, decentralized mesh networks, and more. He currently works at Deeplay as a Senior Reverse Engineer.
 
 <!--
 ## Hi there 👋
